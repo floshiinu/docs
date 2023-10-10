@@ -21,6 +21,7 @@
 * [FloshiLend](ecosystem/floshilend.md)
 * [FloshiBurn](ecosystem/floshiburn.md)
 * [FloshiBridge](ecosystem/floshibridge.md)
+* [Floshi Debit Card](ecosystem/floshi-debit-card.md)
 
 ## Further
 
