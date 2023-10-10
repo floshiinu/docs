@@ -7,6 +7,7 @@
 * [Floshi Network](fundamentals/floshi-network.md)
 * [Floshinomics](fundamentals/floshinomics.md)
 * [Project Team](fundamentals/project-team.md)
+* [Community](fundamentals/community.md)
 
 ## Features
 
