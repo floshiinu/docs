@@ -11,7 +11,9 @@
 
 ## Features
 
-* [Multi-Chain](features/multi-chain.md)
+* [zkEVM L2 Validium](features/zkevm-l2-validium.md)
+* [Omnichain Fungible Token (OFT)](features/omnichain-fungible-token-oft.md)
+* [Multi-Chain Deployment](features/multi-chain-deployment.md)
 * [Decentralized Autonomous Organization (DAO)](features/decentralized-autonomous-organization-dao.md)
 
 ## Ecosystem
